@@ -1,5 +1,5 @@
 const phantom = require("phantom");
-const prefix = "s!";
+const prefix = "s;";
 
 function generateScreenshot(url, message) {
   let urlsTraveled = [];
